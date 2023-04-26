@@ -79,7 +79,7 @@ function App() {
           <div className="text-red-500">
             <p>{error}</p>
           </div>
-          <p className="text-slate-200">
+          <p className="text-slate-200 max-w-3xl">
             Note: All data stays on your device and there are no requests send
             to my server. But: In order to make this app work with all URLs your
             device will make a request to{" "}
